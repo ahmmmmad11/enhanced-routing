@@ -1,0 +1,20 @@
+{
+    "name": "ahmmmmad11/inhanced-routing",
+    "description": "alternative laravel routing package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ahmmmmad11\\": "/",
+            "Ahmmmmad11\\Routing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed Mohamed",
+            "email": "alamerahmed00@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
