@@ -4,7 +4,7 @@ extends Laravel routing package to add more functionality, For this version we p
 
 ## Installation
 
-    composer required ahmmmmad11/inhanced-routing
+    composer required ahmmmmad11/enhanced-routing
   
 Now open `config/app.php` and add the service provider to your providers array.
 
