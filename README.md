@@ -1,4 +1,4 @@
-# inhanced-routing
+# enhanced-routing
 
 extends Laravel routing package to add more functionality, For this version we provide the ability to allow multiple explicit route binding fields.
 
